@@ -10,3 +10,8 @@ Tecnologias empregadas:
 Frontend: HTML, CSS, Javascript (jQuery e AJAX)
 Backend: PHP
 Banco: MySQL
+
+Como usar:
+1. baixar o repositório para a pasta com servidor web php rodando
+2. criar banco de dados MySQL ou MariaDB. Ex: "chatbot_simples" e a tabela "chatbot" com as colunas: id, consultas, respostas. Ou importar o arquivo chatbot_simples.sql
+3. acessar o diretório do projeto pelo seu navegador web
